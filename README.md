@@ -1,3 +1,4 @@
 # Calculadora
 
-Calculadora utilizando lista para a disciplina de Estrutura de dados
+Calculadora utilizando lista e pilha 
+para a disciplina de Estrutura de dados
